@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/PROGYAN/AndroidStudioProjects/TicTacToe2/app/src/main/res/drawable-night/colour.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/PROGYAN/AndroidStudioProjects/TicTacToe2/app/src/main/res/drawable/ic_tic_tac_toe.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/PROGYAN/AndroidStudioProjects/TicTacToe2/app/src/main/res/drawable/splash_screen.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/PROGYAN/AndroidStudioProjects/TicTacToe2/app/src/main/res/drawable/text_border.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/PROGYAN/AndroidStudioProjects/TicTacToe2/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/PROGYAN/AndroidStudioProjects/TicTacToe2/app/src/main/res/layout/activity_winner_delcare.xml" value="0.25" />

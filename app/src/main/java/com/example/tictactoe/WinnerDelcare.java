@@ -18,6 +18,8 @@ public class WinnerDelcare extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        setTheme(R.style.Theme_TicTacToe);
+
         getSupportActionBar().hide();
 
         setContentView(R.layout.activity_winner_delcare);
